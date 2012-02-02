@@ -1,0 +1,7 @@
+h1. qScreenGrabber
+
+Did you ever faced a situation when standard *PrintScreen* key does not satisfy your needs?
+I did. And so i came to this software creation process. It should grow and become something between
+"Greenshot":http://getgreenshot.org/ and "Shutter":http://shutter-project.org/ 
+
+Good luck, me!
